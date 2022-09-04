@@ -1,0 +1,2 @@
+# gonulluNews
+yazılım dokumantasyonu
