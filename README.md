@@ -1,2 +1,2 @@
-# gonulluNews
-yazılım dokumantasyonu
+Sistem Analizi ve Tasarımı dersi kapsamında ekip arkadaşlarımla beraber yaptığım bir yazılım dokumantasyonu projesi. 
+Bu projemizde özgün bir yazılım fikri olarak GonulluNews adını verdiğimiz bir mobil uygulama seçtik. Bu yazılım için 6 aşamalı bir fizibilite çalışması yaptık. İş kırılımını görselleştirdik. Proje zamanlamasi için GANNT ve Pert şemaları oluşturduk ve kritik yol belirledik, üç nokta analizi yaptık. Ekipçe riskleri tartıştık ve risk analizi yaptık. Ardından benchmarking yöntemi ile rakip yazılımlara dair veriler topladık. Bu veriler sayesinde bir gereksinim beyanı oluşturduk. Veri akış diagramları çizdik, veri sözlükleri oluşturduk. Ardından mantık modelleri kurduk (yapısal dil, karar tablosu, karar agacı). Varlık ilişki diagramları oluşturduk (kavramsal ER, mantıksal ER, fiziksel ER). Son olarak son kullanıcı için bir UI tasarımı yaptık. 
